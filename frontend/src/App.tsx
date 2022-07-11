@@ -1,6 +1,14 @@
+import NotificationButton from "./components/NotificationButton"
+
 function App() {
   return (
-    <h1>Empty</h1>
+    
+    /* fragment tag que permite renderizar multiplos elementos html */
+    <> 
+      <h1>Empty</h1>
+      <NotificationButton />
+
+    </>
   )
 }
 
