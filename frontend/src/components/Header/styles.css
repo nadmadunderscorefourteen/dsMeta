@@ -1,7 +1,5 @@
 header {
     background: linear-gradient(180deg, #45214A 0%, #21445B 100%);
-    /*  (180deg, #102347 0%, #181818 100%) 
-    https://color.adobe.com/pt/explore/?filter=most-popular&time=month  */
     height: 220px;
     display: flex;
     align-items: center;
